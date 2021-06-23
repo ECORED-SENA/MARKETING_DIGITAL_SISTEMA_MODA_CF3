@@ -149,40 +149,36 @@
         p.mt-4 Se refieren a la emoción, divulgación e interacción de los usuarios en las redes sociales.
 
       .col-8.mt-5
-        .row
-          .col-lg-6
-            .tarjeta-avatar-b.mb-5
-              img(src='@/assets/ilustraciones/img24.svg' alt='AvatarTop')
-              .tarjeta.tarjeta--azul
-                .p-4
-                  h2.card-p-color-2 Me gusta promedio por publicación:
-                  p.card-p-color-2 Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario.
+        .row.justify-content-center.align-items-stretch
+          .col-lg-6.tarjeta-avatar-b.mb-5            
+            img(src='@/assets/ilustraciones/img24.svg' alt='AvatarTop')
+            .tarjeta.tarjeta--azul
+              .p-4
+                h2.card-p-color-2 Me gusta promedio por publicación:
+                p.card-p-color-2 Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario.
 
-          .col-lg-6
-            .tarjeta-avatar-b.mb-5
-              img(src='@/assets/ilustraciones/img25.svg' alt='AvatarTop')
-              .tarjeta.tarjeta--azul
-                .p-4
-                  h2.card-p-color-2 Compartidos promedios por publicación:
-                  p.card-p-color-2 Se refiere a todas las veces que un contenido ha sido compartido en las distintas redes sociales y es muy popular en las interacciones de los usuarios.
+          .col-lg-6.tarjeta-avatar-b.mb-5            
+            img(src='@/assets/ilustraciones/img25.svg' alt='AvatarTop')
+            .tarjeta.tarjeta--azul
+              .p-4
+                h2.card-p-color-2 Compartidos promedios por publicación:
+                p.card-p-color-2 Se refiere a todas las veces que un contenido ha sido compartido en las distintas redes sociales y es muy popular en las interacciones de los usuarios.
 
 
-        .row
-          .col-lg-6
-            .tarjeta-avatar-b.mb-5
-              img(src='@/assets/ilustraciones/img26.svg' alt='AvatarTop')
-              .tarjeta.tarjeta--azul
-                .p-4
-                  h2.card-p-color-2 Me gusta promedio por publicación:
-                  p.card-p-color-2 Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario.
+        .row.justify-content-center.align-items-stretch
+          .col-lg-6.tarjeta-avatar-b.mb-5            
+            img(src='@/assets/ilustraciones/img26.svg' alt='AvatarTop')
+            .tarjeta.tarjeta--azul
+              .p-4
+                h2.card-p-color-2 Me gusta promedio por publicación:
+                p.card-p-color-2 Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario.
 
-          .col-lg-6
-            .tarjeta-avatar-b.mb-5
-              img(src='@/assets/ilustraciones/img27.svg' alt='AvatarTop')
-              .tarjeta.tarjeta--azul
-                .p-4
-                  h2.card-p-color-2 Compartidos promedios por publicación:
-                  p.card-p-color-2 Se refiere a todas las veces que un contenido ha sido compartido en las distintas redes sociales y es muy popular en las interacciones de los usuarios.
+          .col-lg-6.tarjeta-avatar-b.mb-5            
+            img(src='@/assets/ilustraciones/img27.svg' alt='AvatarTop')
+            .tarjeta.tarjeta--azul
+              .p-4
+                h2.card-p-color-2 Compartidos promedios por publicación:
+                p.card-p-color-2 Se refiere a todas las veces que un contenido ha sido compartido en las distintas redes sociales y es muy popular en las interacciones de los usuarios.
         .row.justify-content-center.align-items-center
           .col-lg-6
             .tarjeta-avatar-b.mb-5
@@ -201,38 +197,34 @@
       .col-8
         h4.text-center.mt-5 KPI de conversión y resultado
         p.mt-4.text-center Esta categoría esta compuesta por cinco indicadores.     
-        .row.mt-5
-          .col-lg-6
-            .tarjeta-avatar-b.mb-5
-              img(src='@/assets/ilustraciones/img31.svg' alt='AvatarTop')
-              .tarjeta.tarjeta--azul-1
-                .p-4
-                  h2 Me gusta promedio por publicación:
-                  p Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario.
+        .row.justify-content-center.align-items-stretch.mt-5
+          .col-lg-6.tarjeta-avatar-b.mb-5
+            img(src='@/assets/ilustraciones/img31.svg' alt='AvatarTop')
+            .tarjeta.tarjeta--azul-1
+              .p-4
+                h2 Me gusta promedio por publicación:
+                p Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario.
 
-          .col-lg-6
-            .tarjeta-avatar-b.mb-5
-              img(src='@/assets/ilustraciones/img32.svg' alt='AvatarTop')
-              .tarjeta.tarjeta--azul-1
-                .p-4
-                  h2 Compartidos promedios por publicación:
-                  p Se refiere a todas las veces que un contenido ha sido compartido en las distintas redes sociales y es muy popular en las interacciones de los usuarios.
-        .row
-          .col-lg-6
-            .tarjeta-avatar-b.mb-5
-              img(src='@/assets/ilustraciones/img33.svg' alt='AvatarTop')
-              .tarjeta.tarjeta--azul-1
-                .p-4
-                  h2 Me gusta promedio por publicación:
-                  p Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario.
+          .col-lg-6.tarjeta-avatar-b.mb-5
+            img(src='@/assets/ilustraciones/img32.svg' alt='AvatarTop')
+            .tarjeta.tarjeta--azul-1
+              .p-4
+                h2 Compartidos promedios por publicación:
+                p Se refiere a todas las veces que un contenido ha sido compartido en las distintas redes sociales y es muy popular en las interacciones de los usuarios.
+        .row.justify-content-center.align-items-stretch
+          .col-lg-6.tarjeta-avatar-b.mb-5
+            img(src='@/assets/ilustraciones/img33.svg' alt='AvatarTop')
+            .tarjeta.tarjeta--azul-1
+              .p-4
+                h2 Me gusta promedio por publicación:
+                p Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario.
 
-          .col-lg-6
-            .tarjeta-avatar-b.mb-5
-              img(src='@/assets/ilustraciones/img34.svg' alt='AvatarTop')
-              .tarjeta.tarjeta--azul-1
-                .p-4
-                  h2 Compartidos promedios por publicación:
-                  p Se refiere a todas las veces que un contenido ha sido compartido en las distintas redes sociales y es muy popular en las interacciones de los usuarios.
+          .col-lg-6.tarjeta-avatar-b.mb-5
+            img(src='@/assets/ilustraciones/img34.svg' alt='AvatarTop')
+            .tarjeta.tarjeta--azul-1
+              .p-4
+                h2 Compartidos promedios por publicación:
+                p Se refiere a todas las veces que un contenido ha sido compartido en las distintas redes sociales y es muy popular en las interacciones de los usuarios.
         .row.justify-content-center.align-items-center
           .col-lg-6
             .tarjeta-avatar-b.mb-5
