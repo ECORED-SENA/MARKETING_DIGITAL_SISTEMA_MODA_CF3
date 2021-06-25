@@ -69,7 +69,7 @@
         .row.justify-content-center.align-items-stretch
           .col-12.col-md-4.p-0
             img.img-t.img-a(src='@/assets/ilustraciones/img44.png', alt='')
-          .col-12.col-md-8.row-bg-2.p-2
+          .col-12.col-md-8.row-bg-2.p-4
             .p-2.row-bg-p.mb-0
               p Para saber direccionar los esfuerzos encaminados a lograr los objetivos propuestos, se debe conocer a la competencia, esto permite entender el escenario en el que se desenvuelve una marca o una empresa, las oportunidades del mercado, las posibles amenazas y es de gran ayuda para direccionar las estrategias establecidas. 
 

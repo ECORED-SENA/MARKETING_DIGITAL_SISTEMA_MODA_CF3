@@ -36,7 +36,7 @@
     .row.justify-content-center.align-items-stretch.mt-5
       .col-10.col-md-4.bg-1.p-4
         h4.text-center Medición
-        p La analítica digital se compone de tres factores importantes. A continuación, se debe observar cada componente para identificar las características de los factores que le ayudarán a obtener datos para sus planes de marketing. 
+        p Recolección de datos asociados de los usuarios que interactúan con la red social o sitio web.
         img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img8.svg', alt='')
 
       .col-10.col-md-4.bg-2.p-4

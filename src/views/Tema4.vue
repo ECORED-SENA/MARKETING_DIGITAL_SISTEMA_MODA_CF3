@@ -52,7 +52,10 @@
 
     .titulo-segundo#t_4_2.mt-5
       .h4 4.2. Tipos de reportes 
-
+    .row.justify-content-center.align-items-center.mt-5
+      .col-10     
+        .row.cajon.color-primario.p-4
+          p.mb-0 Teniendo en cuenta la información que se desea dar a conocer, se pueden definir tres tipos de reportes, cuya importancia radica en aprender a organizar la información encontrada para exponerla de manera clara y tener muy presente para la toma de decisiones (Cibrián, 2019). Ellos son:  
     TabsA.color-acento-contenido.mt-5
       .tarjeta.nav-bg-color.p-5(titulo="Cuadro de mando")
         .row.justify-content-center.align-items-strech
@@ -78,7 +81,7 @@
             p Este se enfoca, sobre todo, en las conclusiones del proceso de análisis y debe estar redactado de una manera clara y entendible para el lector al que está dirigido, siempre y cuando maneje datos que se ajusten a la realidad y puede ser producido periódicamente según lo requiere la marca.         
           .col-5
             img.img-t.img-a(src='@/assets/ilustraciones/img56.png', alt='')  
-    p.mt-5 Al finalizar la lectura de este componente de formación, se espera que se haya recuperado información para desarrollar conocimientos, habilidades y actitudes que deberán aplicarse al contexto laboral, pues es allí es donde tiene sentido esta experiencia de aprendizaje.              
+    p.mt-5 Al finalizar la lectura de este componente de formación, se espera que se haya recuperado información para desarrollar conocimientos, habilidades y actitudes que deberán aplicarse al contexto laboral, pues es allí en donde tiene sentido esta experiencia de aprendizaje.              
 
 </template>
 

@@ -25,8 +25,8 @@
         .row.cajon.color-primario.p-4
           p.mb-0 Los datos arrojados por la interacción de usuarios en las redes sociales se constituyen en la materia prima de la analítica digital, con estas cifras se trabaja para determinar qué se desea medir. Todo depende de las metas esperadas y de las métricas utilizadas, puesto que los datos llegan cada día en gran volumen y es muy dispendioso medirlos absolutamente todos, sobre todo cuando se busca la optimización de tiempo y dinero.       
         p.mt-3 Para determinar qué se debe medir, es importante formular interrogantes como el por qué y el para qué es importante determinado factor, qué es lo que se busca y si se está logrando lo visualizado, esto va íntimamente ligado con el comportamiento de los usuarios de la red social o sitio web. 
-        .bloque-texto-d.color-secundario.p-2.mt-3
-          .bloque-texto-d__texto.mb-2
+        .bloque-texto-b.color-secundario.p-2.mt-3
+          .bloque-texto-b__texto.mb-2
             i.fas.fa-quote-left
             h3.text-regular Tal como lo afirma Cibrián (2019):
             p “Sin medición, no hay información, sin información no podrás tomar buenas decisiones y si no actúas no mejorarás tu negocio” (p. 57);  
@@ -111,7 +111,7 @@
         .row.justify-content-center.align-items-center.mt-5
           .col-12      
             h4.text-center Tipos de KPI
-            p Según el consultor en marketing digital Juan Carlos Mejía Llano (2020) existen tres categorías de KPI que se aplican para redes sociales o sitio web ¿cuáles son?; para que pueda explicarlas y probarlas en su contexto continua con la lectura. 
+            p Según el consultor en marketing digital Juan Carlos Mejía Llano (2020) existen tres categorías de KPI que se aplican para redes sociales o sitio web ¿cuáles son?; para que pueda explicarlas y probarlas en su contexto, continua con la lectura. 
       .col-2
         img.img-t.mt-3(src='@/assets/ilustraciones/img19.svg', alt='')
 
@@ -121,7 +121,8 @@
         h4.text-center.mt-5 KPI de gestión y comunidad
         p.mt-4 Se refieren a cantidad de publicaciones y seguidores en las redes sociales. 
       .col-7.mt-5
-        h4.text-center.mt-5.card-p-color-1 KPI de gestión y comunidad
+        p.text-center.mt-5.card-p-color-1 ¿Qué tipo de indicadores tiene cada categoría KPI?
+        h4.text-center.mt-4.card-p-color-1 KPI de gestión y comunidad
         p.mt-4.text-center.card-p-color-1 Compuesta por dos indicadores. 
 
         .row.mb-5
@@ -142,7 +143,7 @@
                   h4.card-p-color-1 Tamaño de la comunidad:                   
                   p.card-p-color-1 Se refiere a la cantidad de seguidores que cuenta la red social, con lo que se determina si incrementa o disminuye.
 
-    .row.justify-content-around.align-items-start.card-color3.py-5
+    .row.justify-content-around.align-items-start.card-color3.pt-5.pb-0
       .col-3.card-color-bg-3.p-4.text-white.mt-5
         img.img-t.img-a(src='@/assets/ilustraciones/img23.svg', alt='')
         h4.text-center.mt-5 KPI de interacción y alcance
@@ -170,14 +171,14 @@
             img(src='@/assets/ilustraciones/img26.svg' alt='AvatarTop')
             .tarjeta.tarjeta--azul
               .p-4
-                h2.card-p-color-2 Me gusta promedio por publicación:
+                h2.card-p-color-2 Comentario promedio por publicación:
                 p.card-p-color-2 Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario.
 
           .col-lg-6.tarjeta-avatar-b.mb-5            
             img(src='@/assets/ilustraciones/img27.svg' alt='AvatarTop')
             .tarjeta.tarjeta--azul
               .p-4
-                h2.card-p-color-2 Compartidos promedios por publicación:
+                h2.card-p-color-2 Usuarios alcanzados promedio por publicación: 
                 p.card-p-color-2 Se refiere a todas las veces que un contenido ha sido compartido en las distintas redes sociales y es muy popular en las interacciones de los usuarios.
         .row.justify-content-center.align-items-center
           .col-lg-6
@@ -185,14 +186,20 @@
               img(src='@/assets/ilustraciones/img28.svg' alt='AvatarTop')
               .tarjeta.tarjeta--azul
                 .p-4
-                  h2.card-p-color-2 Me gusta promedio por publicación:
-                  p.card-p-color-2 Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario.       
+                  h2.card-p-color-2 Porcentaje de #[i engagement]:
+                  p.card-p-color-2 Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario. 
+      .row.row-space.sup.p-0.mx-0
+        .col-2.p-0
+          img.img-t.img-a(src='@/assets/ilustraciones/a1.svg', alt='')
+        .col-2.p-0
+          img.img-a(src='@/assets/ilustraciones/a2.svg', alt='')
+
                   
-    .row.justify-content-around.align-items-start.card-color4.py-5
+    .row.justify-content-around.align-items-start.card-color4.pt-5.pb-0
       .col-3.card-color-bg-4.p-4.mt-5
         img.img-t.img-a(src='@/assets/ilustraciones/img30.svg', alt='')
-        h4.text-center.mt-5 KPI de interacción y alcance
-        p.mt-4 Se refieren a la emoción, divulgación e interacción de los usuarios en las redes sociales.
+        h4.text-center.mt-5 KPI de gestión y comunidad
+        p.mt-4 Se refieren a cantidad de publicaciones y seguidores en las redes sociales. 
 
       .col-8
         h4.text-center.mt-5 KPI de conversión y resultado
@@ -202,37 +209,43 @@
             img(src='@/assets/ilustraciones/img31.svg' alt='AvatarTop')
             .tarjeta.tarjeta--azul-1
               .p-4
-                h2 Me gusta promedio por publicación:
-                p Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario.
+                h2 CTR #[i (Click Through Rate)]:
+                p Se define como la tasa de clics realizados en enlaces publicados en la red social.
 
           .col-lg-6.tarjeta-avatar-b.mb-5
             img(src='@/assets/ilustraciones/img32.svg' alt='AvatarTop')
             .tarjeta.tarjeta--azul-1
               .p-4
-                h2 Compartidos promedios por publicación:
-                p Se refiere a todas las veces que un contenido ha sido compartido en las distintas redes sociales y es muy popular en las interacciones de los usuarios.
+                h2 Porcentaje de conversión:
+                p Es el porcentaje de visitantes en un sitio web que cumplen con el objetivo y permite identificar cuántos son direccionados desde una red social.
         .row.justify-content-center.align-items-stretch
           .col-lg-6.tarjeta-avatar-b.mb-5
             img(src='@/assets/ilustraciones/img33.svg' alt='AvatarTop')
             .tarjeta.tarjeta--azul-1
               .p-4
-                h2 Me gusta promedio por publicación:
-                p Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario.
+                h2 CPL #[i (Cost per Lead)]:  
+                p Se caracteriza por el costo por cada cliente potencial obtenido en un sitio web a través de la estrategia de Social Media Marketing.
 
           .col-lg-6.tarjeta-avatar-b.mb-5
             img(src='@/assets/ilustraciones/img34.svg' alt='AvatarTop')
             .tarjeta.tarjeta--azul-1
               .p-4
-                h2 Compartidos promedios por publicación:
-                p Se refiere a todas las veces que un contenido ha sido compartido en las distintas redes sociales y es muy popular en las interacciones de los usuarios.
+                h2 CPA #[i (Cost Per Acquisition)]:
+                p Se refiere al costo por cada comprador obtenido en un sitio web a través de la estrategia de Social Media Marketing.
         .row.justify-content-center.align-items-center
           .col-lg-6
             .tarjeta-avatar-b.mb-5
               img(src='@/assets/ilustraciones/img35.svg' alt='AvatarTop')
               .tarjeta.tarjeta--azul-1
                 .p-4
-                  h2 Me gusta promedio por publicación:
-                  p Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario. 
+                  h2 ROI #[i (Return Of Investment)]:   
+                  p Se mide por el retorno de la inversión, lo cual determina si una campaña en redes sociales está siendo efectiva. 
+
+      .row.row-space.sup.p-0
+        .col-2.p-0
+          img.img-a(src='@/assets/ilustraciones/a3.svg', alt='')
+        .col-2
+          img.img-t.img-a(src='@/assets/ilustraciones/a4.svg', alt='')
 
     .titulo-segundo#t_2_4.mt-5
       .h4 2.4.  Proceso de medición

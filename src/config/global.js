@@ -1,7 +1,6 @@
 export default {
   global: {
-    componenteFormativo:
-      'Componente Formativo con un nombre extremadamente largo y extenso',
+    componenteFormativo: 'Analítica digital para redes sociales',
     descripcionCurso:
       'Dentro del marketing digital, las redes sociales tienen la gran habilidad de permitir su medición, lo cual constituye un insumo demasiado valioso para direccionar las estrategias digitales que desarrollan las empresas de acuerdo con los objetivos y metas propuestas. De esta manera, en el presente componente de formación hace una exploración conceptual de la analítica digital desde las redes sociales.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
@@ -262,7 +261,7 @@ export default {
         'Galiana, P. (2018). Qué es la analítica web, para qué sirve y principales herramientas. ',
       tipo: 'Página web',
       link:
-        '/https://www.iebschool.com/blog/herramientas-analisis-web-analitica-usabilidad/',
+        'https://www.iebschool.com/blog/herramientas-analisis-web-analitica-usabilidad/',
     },
     {
       texto:
