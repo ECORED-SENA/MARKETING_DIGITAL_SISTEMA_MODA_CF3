@@ -27,9 +27,11 @@
                                 img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
                         .list__txt 
                             span Analizar los datos sin perder el foco del porqué se hace. 
-                  p.mt-3 La idea de analizar los datos es para responder a preguntas que sugiere Cibrián (2019, p. 79). Ellas son:           
+        
             .col-lg-4.mb-4.mb-lg-0
                 img.img-t.img-a(src='@/assets/ilustraciones/img40.svg', alt='')
+
+    p La idea de analizar los datos es para responder a preguntas que sugiere Cibrián (2019, p. 79). Ellas son:                   
     img.mt-5.img-t.img-a(src='@/assets/ilustraciones/img41.svg', alt='')
     p.mt-5 Al aterrizar los datos con el contexto es cómo se encuentra información relevante también llamada insights, que permitirán una toma de decisiones concienzuda y entendida según la realidad. Es importante comprender que el contexto les da sentido a las conclusiones: ¿en qué contexto se hará la intervención?, ¿quiénes están en ese contexto?, ¿qué les gusta?... Se sugiere no pensar tanto y atreverse a reconocer el contexto. 
 
