@@ -172,14 +172,14 @@
             .tarjeta.tarjeta--azul
               .p-4
                 h2.card-p-color-2 Comentario promedio por publicación:
-                p.card-p-color-2 Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario.
+                p.card-p-color-2 Es un indicador estándar en las redes sociales y se ha convertido en el medio de expresión de muchos usuarios.
 
           .col-lg-6.tarjeta-avatar-b.mb-5            
             img(src='@/assets/ilustraciones/img27.svg' alt='AvatarTop')
             .tarjeta.tarjeta--azul
               .p-4
                 h2.card-p-color-2 Usuarios alcanzados promedio por publicación: 
-                p.card-p-color-2 Se refiere a todas las veces que un contenido ha sido compartido en las distintas redes sociales y es muy popular en las interacciones de los usuarios.
+                p.card-p-color-2 Los usuarios alcanzados por cada publicación realizada es una información que solo el administrador de la red social puede visualizar.
         .row.justify-content-center.align-items-center
           .col-lg-6
             .tarjeta-avatar-b.mb-5
@@ -187,7 +187,7 @@
               .tarjeta.tarjeta--azul
                 .p-4
                   h2.card-p-color-2 Porcentaje de #[i engagement]:
-                  p.card-p-color-2 Es un indicador estándar en las redes sociales y se conecta con la parte emocional del usuario. 
+                  p.card-p-color-2 Se refiere al porcentaje de interacciones realizadas por los usuarios en las redes sociales, de acuerdo con estas es como se definen los tipos de interacciones a estudiar.
       .row.row-space.sup.p-0.mx-0
         .col-2.p-0
           img.img-t.img-a(src='@/assets/ilustraciones/a1.svg', alt='')
