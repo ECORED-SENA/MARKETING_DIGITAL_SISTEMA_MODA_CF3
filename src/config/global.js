@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Analítica digital para redes sociales',
     descripcionCurso:
-      'Dentro del marketing digital, las redes sociales tienen la gran habilidad de permitir su medición, lo cual constituye un insumo demasiado valioso para direccionar las estrategias digitales que desarrollan las empresas de acuerdo con los objetivos y metas propuestas. De esta manera, en el presente componente de formación hace una exploración conceptual de la analítica digital desde las redes sociales.',
+      'Dentro del <i>marketing</i> digital, las redes sociales tienen la gran habilidad de permitir su medición, lo cual constituye un insumo demasiado valioso para direccionar las estrategias digitales que desarrollan las empresas de acuerdo con los objetivos y metas propuestas. De esta manera, en el presente componente de formación hace una exploración conceptual de la analítica digital desde las redes sociales.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },

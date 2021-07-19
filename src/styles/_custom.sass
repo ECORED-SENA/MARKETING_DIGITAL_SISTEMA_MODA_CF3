@@ -179,7 +179,7 @@
     top: 0% !important
     left: 0% !important
     width: 50% !important
-    height: 50% !important
+    height: 55% !important
     background-color: #BB83FF33 !important
 
 .bloque-texto-b i    
@@ -190,3 +190,29 @@
 
 .sup
   margin-top: -12em
+
+.text-in
+  -webkit-animation: text-in 0.5s cubic-bezier(0.215, 0.61, 0.355, 1) both
+  animation: text-in 0.5s cubic-bezier(0.215, 0.61, 0.355, 1) both
+
+@-webkit-keyframes text-in
+  0%
+    letter-spacing: -0.5em
+    opacity: 0
+
+  40%
+    opacity: 0.6
+
+  100%
+    opacity: 1
+
+@keyframes text-in
+  0%
+    letter-spacing: -0.5em
+    opacity: 0
+
+  40%
+    opacity: 0.6
+
+  100%
+    opacity: 1  

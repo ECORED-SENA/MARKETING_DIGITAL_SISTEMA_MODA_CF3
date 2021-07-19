@@ -5,11 +5,11 @@
     .titulo-principal
       .titulo-principal__numero
         span.numero 2
-      h1 Contenidos, medición y análisis     
+      h1.text-in Contenidos, medición y análisis     
     img.img-t.img-a(src='@/assets/ilustraciones/img13.png', alt='')
     .row.justify-content-center.align-items-center.mt-5
       .col-12.col-md-7
-        p A partir del plan de marketing digital es cómo se organiza una ruta de navegación para la consecución de las metas propuestas por la marca o empresa. Desde este punto es que se determina un público objetivo, la red social a usar, la comunicación, los elementos utilizados y demás factores que determinan la puesta en marcha del plan inicialmente pensado; pero también es muy importante la definición de los contenidos que serán compartidos con el público para identificar la interacción que este tendrá, lo que a su vez arrojará datos importantes que, a simple vista, solo son cifras sueltas, pero que al darles un contexto permiten realizar un proceso de análisis que llevará a una toma de decisiones para ponerlas en práctica, con el fin de mejorar o redireccionar la estrategia inicial. 
+        p A partir del plan de #[i marketing] digital es cómo se organiza una ruta de navegación para la consecución de las metas propuestas por la marca o empresa. Desde este punto es que se determina un público objetivo, la red social a usar, la comunicación, los elementos utilizados y demás factores que determinan la puesta en marcha del plan inicialmente pensado; pero también es muy importante la definición de los contenidos que serán compartidos con el público para identificar la interacción que este tendrá, lo que a su vez arrojará datos importantes que, a simple vista, solo son cifras sueltas, pero que al darles un contexto permiten realizar un proceso de análisis que llevará a una toma de decisiones para ponerlas en práctica, con el fin de mejorar o redireccionar la estrategia inicial. 
 
         p Al tener claro lo anterior, para llevar a cabo el proceso de medir se debe determinar qué medir y esto se define según los objetivos propuestos y los criterios establecidos para ello. 
 
@@ -111,12 +111,12 @@
         .row.justify-content-center.align-items-center.mt-5
           .col-12      
             h4.text-center Tipos de KPI
-            p Según el consultor en marketing digital Juan Carlos Mejía Llano (2020) existen tres categorías de KPI que se aplican para redes sociales o sitio web ¿cuáles son?; para que pueda explicarlas y probarlas en su contexto, continua con la lectura. 
+            p Según el consultor en #[i marketing] digital Juan Carlos Mejía Llano (2020) existen tres categorías de KPI que se aplican para redes sociales o sitio web ¿cuáles son?; para que pueda explicarlas y probarlas en su contexto, continua con la lectura. 
       .col-2
         img.img-t.mt-3(src='@/assets/ilustraciones/img19.svg', alt='')
 
     .row.justify-content-around.align-items-center.card-color2.pb-5
-      .col-3.card-color-bg-2.p-4.text-white.mt-5
+      .col-lg-3.card-color-bg-2.p-4.text-white.mt-5
         img.img-t.img-a(src='@/assets/ilustraciones/img20.svg', alt='')
         h4.text-center.mt-5 KPI de gestión y comunidad
         p.mt-4 Se refieren a cantidad de publicaciones y seguidores en las redes sociales. 
@@ -126,7 +126,7 @@
         p.mt-4.text-center.card-p-color-1 Compuesta por dos indicadores. 
 
         .row.mb-5
-          .col-md-6.col-lg.mb-5.mb-lg-0
+          .col-lg-6.col-lg.mb-5.mb-lg-0
             .tarjeta-avatar
               img(src='@/assets/ilustraciones/img21.svg' alt='AvatarTop')
               .tarjeta.color-primario
@@ -135,7 +135,7 @@
                   p.card-p-color-1 Se define por la cantidad de publicaciones realizadas en la red social con un tiempo determinado y permite hacer seguimiento de estas.
 
 
-          .col-md-6.col-lg.mb-5.mb-lg-0
+          .col-lg-6.col-lg.mb-5.mb-lg-0
             .tarjeta-avatar
               img(src='@/assets/ilustraciones/img22.svg' alt='AvatarTop')
               .tarjeta.color-primario
@@ -144,7 +144,7 @@
                   p.card-p-color-1 Se refiere a la cantidad de seguidores que cuenta la red social, con lo que se determina si incrementa o disminuye.
 
     .row.justify-content-around.align-items-start.card-color3.pt-5.pb-0
-      .col-3.card-color-bg-3.p-4.text-white.mt-5
+      .col-lg-3.card-color-bg-3.p-4.text-white.mt-5
         img.img-t.img-a(src='@/assets/ilustraciones/img23.svg', alt='')
         h4.text-center.mt-5 KPI de interacción y alcance
         p.mt-4 Se refieren a la emoción, divulgación e interacción de los usuarios en las redes sociales.
@@ -196,14 +196,14 @@
 
                   
     .row.justify-content-around.align-items-start.card-color4.pt-5.pb-0
-      .col-3.card-color-bg-4.p-4.mt-5
+      .col-lg-3.card-color-bg-4.p-4.mt-5
         img.img-t.img-a(src='@/assets/ilustraciones/img30.svg', alt='')
         h4.text-center.mt-5 KPI de gestión y comunidad
         p.mt-4 Se refieren a cantidad de publicaciones y seguidores en las redes sociales. 
 
       .col-8
         h4.text-center.mt-5 KPI de conversión y resultado
-        p.mt-4.text-center Esta categoría esta compuesta por cinco indicadores.     
+        p.mt-4.text-center Esta categoría está compuesta por cinco indicadores.     
         .row.justify-content-center.align-items-stretch.mt-5
           .col-lg-6.tarjeta-avatar-b.mb-5
             img(src='@/assets/ilustraciones/img31.svg' alt='AvatarTop')
@@ -224,14 +224,14 @@
             .tarjeta.tarjeta--azul-1
               .p-4
                 h2 CPL #[i (Cost per Lead)]:  
-                p Se caracteriza por el costo por cada cliente potencial obtenido en un sitio web a través de la estrategia de Social Media Marketing.
+                p Se caracteriza por el costo por cada cliente potencial obtenido en un sitio web a través de la estrategia de Social Media #[i marketing].
 
           .col-lg-6.tarjeta-avatar-b.mb-5
             img(src='@/assets/ilustraciones/img34.svg' alt='AvatarTop')
             .tarjeta.tarjeta--azul-1
               .p-4
                 h2 CPA #[i (Cost Per Acquisition)]:
-                p Se refiere al costo por cada comprador obtenido en un sitio web a través de la estrategia de Social Media Marketing.
+                p Se refiere al costo por cada comprador obtenido en un sitio web a través de la estrategia de Social Media #[i marketing].
         .row.justify-content-center.align-items-center
           .col-lg-6
             .tarjeta-avatar-b.mb-5
@@ -260,7 +260,7 @@
             .col-md-2.mb-4.mb-md-0
               img.img-t.img-a(src='@/assets/ilustraciones/img36.svg', alt='')
             .col-md-8
-              p En esta primera fase se deben establecer aquellos aspectos que se medirán según el plan de marketing digital establecido. En este punto hay que tener en cuenta los objetivos de la marca o empresa, los KPI a utilizar, las estrategias y herramientas que se van a llevar a cabo para conseguir dichos objetivos, la segmentación del público, entre otros.
+              p En esta primera fase se deben establecer aquellos aspectos que se medirán según el plan de #[i marketing] digital establecido. En este punto hay que tener en cuenta los objetivos de la marca o empresa, los KPI a utilizar, las estrategias y herramientas que se van a llevar a cabo para conseguir dichos objetivos, la segmentación del público, entre otros.
 
           .row.justify-content-center.align-items-center(titulo="Establecer un plan de implementación: ¿cómo medirlo?")
             .col-md-2.mb-4.mb-md-0

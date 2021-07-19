@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span.numero 3
-      h1 Análisis de información
+      h1.text-in Análisis de información
     .row.justify-content-center.align-items-center
       .col-10  
         .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
@@ -41,7 +41,7 @@
       .col-12.col-md-7
         p Haciendo énfasis en la importancia de poner en contexto los datos encontrados y para realizar un mejor análisis de la información obtenida, se necesita entender el mercado en el que se desenvuelve el negocio, segmentar el público y poner especial cuidado en los KPI utilizados según los objetivos establecidos, puesto que en un mar de datos es posible perder el norte, si no se ha definido qué se desea y se debe analizar.  
         .row.cajon.color-primario.p-4
-          p.mb-0 Según Cibrián (2019) es muy útil el uso de dos componentes que permitirán contextualizar los datos suministrados por la medición, a partir de ellos es como se podrá dar claridad y entendimiento a los resultados que está arrojando la estrategia de marketing aplicada y determinar si es la más adecuada o debe ser modificada para lograr los objetivos propuestos.     
+          p.mb-0 Según Cibrián (2019) es muy útil el uso de dos componentes que permitirán contextualizar los datos suministrados por la medición, a partir de ellos es como se podrá dar claridad y entendimiento a los resultados que está arrojando la estrategia de #[i marketing] aplicada y determinar si es la más adecuada o debe ser modificada para lograr los objetivos propuestos.     
         p.mt-4 Ahora, se debe revisar con atención la siguiente información que agrega contenido relevante a este proceso de aprendizaje.
       .col-12.col-md-5
         img.img-t.img-a(src='@/assets/ilustraciones/img42.png', alt='') 
@@ -78,7 +78,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-12.col-md-7
         .row.cajon.color-primario.p-4
-          p.mb-0 Aunque en la cotidianidad las comparaciones nunca son buenas, en el marketing digital pueden ser muy provechosas para poner los pies en la tierra y dirigirse por el camino correcto, Con respecto a esto, según Maciá y Santoja (2017) se debe hacer uso de la matriz DOFA (debilidades, oportunidades, fortalezas y amenazas) para observar estos aspectos con relación a otra marca, igualmente se deben plantear interrogantes en torno a las redes sociales utilizadas, los contenidos, la periodicidad de publicación, las interacciones de los usuarios, cantidad de seguidores, tono que usan para comunicarse, publicaciones populares, es decir, toda la información que se puede obtener al revisar la red social externamente.   
+          p.mb-0 Aunque en la cotidianidad las comparaciones nunca son buenas, en el #[i marketing] digital pueden ser muy provechosas para poner los pies en la tierra y dirigirse por el camino correcto, Con respecto a esto, según Maciá y Santoja (2017) se debe hacer uso de la matriz DOFA (debilidades, oportunidades, fortalezas y amenazas) para observar estos aspectos con relación a otra marca, igualmente se deben plantear interrogantes en torno a las redes sociales utilizadas, los contenidos, la periodicidad de publicación, las interacciones de los usuarios, cantidad de seguidores, tono que usan para comunicarse, publicaciones populares, es decir, toda la información que se puede obtener al revisar la red social externamente.   
         p.mt-4 Estimado aprendiz, ahora se deben contestar estas preguntas: ¿ha hecho una matriz DOFA?, ¿cómo la ha hecho? Es necesario compartir sus reflexiones en los espacios de comunicación del curso. Lo leemos. 
       .col-12.col-md-5
         img.img-t.img-a(src='@/assets/ilustraciones/img45.svg', alt='')               

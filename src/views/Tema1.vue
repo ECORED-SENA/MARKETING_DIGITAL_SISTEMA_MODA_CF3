@@ -5,14 +5,14 @@
     .titulo-principal
       .titulo-principal__numero
         span.numero 1
-      h1 Analítica de datos para redes sociales
+      h1.text-in Analítica de datos para redes sociales
     .row.justify-content-center.align-items-center
       .col-10  
         .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
           .row.m-0.align-items-center.justify-content-between
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p Las redes sociales se han convertido en el medio más utilizado tanto para marcas como para usuarios, pues la flexibilidad de interacción y el fácil acceso han permitido que estas lleguen a todos los rincones del planeta. Detrás de todo lo que se publica hay algo muy importante para tener en cuenta por toda persona o marca que desee hacer uso de las redes sociales como medio empresarial. Ese “algo” es la información y datos obtenidos de las interacciones, de ahí la importancia del análisis de dichos datos para definir o direccionar la estrategia de marketing digital. 
+                p Las redes sociales se han convertido en el medio más utilizado tanto para marcas como para usuarios, pues la flexibilidad de interacción y el fácil acceso han permitido que estas lleguen a todos los rincones del planeta. Detrás de todo lo que se publica hay algo muy importante para tener en cuenta por toda persona o marca que desee hacer uso de las redes sociales como medio empresarial. Ese “algo” es la información y datos obtenidos de las interacciones, de ahí la importancia del análisis de dichos datos para definir o direccionar la estrategia de #[i marketing] digital. 
             .col-lg-4.mb-4.mb-lg-0
                 img.img-t.img-a(src='@/assets/ilustraciones/img6.svg', alt='')
 
@@ -27,11 +27,11 @@
         img.img-t.img-a(src='@/assets/ilustraciones/img7.png', alt='')
       .col-12.col-md-5
         .row.cajon.color-primario.p-4
-          p.mb-0 Entendiendo la importancia de la analítica digital es cómo se reconoce la facilidad que brinda el marketing digital para medir todo lo que se considere necesario y con miras a direccionar las acciones de mejora en una determinada estrategia digital. Para realizar esta medición en la web existe una gran cantidad de herramientas gratuitas y de acuerdo con los criterios y métricas elegidas.
+          p.mb-0 Entendiendo la importancia de la analítica digital es cómo se reconoce la facilidad que brinda el #[i marketing] digital para medir todo lo que se considere necesario y con miras a direccionar las acciones de mejora en una determinada estrategia digital. Para realizar esta medición en la web existe una gran cantidad de herramientas gratuitas y de acuerdo con los criterios y métricas elegidas.
 
     .titulo-segundo#t_1_1.mt-5
       .h4 1.1. Componentes de la analítica digital 
-    p La analítica digital se compone de tres factores importantes. A continuación, se debe observar cada componente para identificar las características de los factores que le ayudarán a obtener datos para sus planes de marketing.                 
+    p La analítica digital se compone de tres factores importantes. A continuación, se debe observar cada componente para identificar las características de los factores que le ayudarán a obtener datos para sus planes de #[i marketing].                 
 
     .row.justify-content-center.align-items-stretch.mt-5
       .col-10.col-md-4.bg-1.p-4

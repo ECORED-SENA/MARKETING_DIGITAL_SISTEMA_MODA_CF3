@@ -7,11 +7,11 @@
       .titulo-principal__numero
         span
           i.fas.fa-info
-      h1 Introducción
+      h1.text-in Introducción
     
-    p El marketing digital ha marcado un antes y un después para la manera como se promocionan y venden productos y servicios a nivel global. Este, aparte de generar comunidad y un sinfín de nuevas dinámicas, a diferencia de otros se ha destacado por brindar la oportunidad de medir todo lo que se considera necesario y este ha sido un valor agregado muy grande para las empresas al permitir optimizar, en gran medida, sus recursos.
+    p El #[i marketing] digital ha marcado un antes y un después para la manera como se promocionan y venden productos y servicios a nivel global. Este, aparte de generar comunidad y un sinfín de nuevas dinámicas, a diferencia de otros se ha destacado por brindar la oportunidad de medir todo lo que se considera necesario y este ha sido un valor agregado muy grande para las empresas al permitir optimizar, en gran medida, sus recursos.
 
-    p Por consiguiente, después de generar todo un plan de marketing digital, definir estrategias, herramientas y medios, además de llevarlo a la acción, las empresas pueden medir todos los datos arrojados a través de la interacción que sus usuarios han generado en un determinado tiempo, puesto que no sirve de nada el hecho de invertir tiempo y dinero en marketing digital si no se analizan los resultados logrados con tanto esfuerzo. Es así como la analítica de datos o analítica digital llega con mucha fuerza para ofrecer toda su ayuda en pro de la toma certera de decisiones, después del desarrollo de procesos de medición, análisis y reporte de información real. Es de destacar que en este componente formativo se enfocará en la analítica de datos para redes sociales. 
+    p Por consiguiente, después de generar todo un plan de #[i marketing] digital, definir estrategias, herramientas y medios, además de llevarlo a la acción, las empresas pueden medir todos los datos arrojados a través de la interacción que sus usuarios han generado en un determinado tiempo, puesto que no sirve de nada el hecho de invertir tiempo y dinero en #[i marketing] digital si no se analizan los resultados logrados con tanto esfuerzo. Es así como la analítica de datos o analítica digital llega con mucha fuerza para ofrecer toda su ayuda en pro de la toma certera de decisiones, después del desarrollo de procesos de medición, análisis y reporte de información real. Es de destacar que en este componente formativo se enfocará en la analítica de datos para redes sociales. 
 
     p Antes de continuar en el contexto de la analítica de datos para redes sociales, se sugiere observar el siguiente recurso de aprendizaje para obtener información que proporcionará elementos para iniciar y culminar con éxito el presente componente de formación; además, ¿qué se espera aprender durante esta experiencia?; si se hiciera una lluvia de ideas mental sobre la analítica de datos para redes sociales, ¿qué palabras llegan a la mente? ¡Adelante con la exploración!
 
@@ -25,7 +25,7 @@
 
         .row.justify-content-center.align-items-center(titulo="¿QUÉ ELEMENTOS TENGO PARA APRENDER?")
           .col-md-10.mb-4.mb-md-0
-            p Usted tiene a su disposición un conjunto de recursos de aprendizaje para desarrollar conocimientos, habilidades y actitudes. Entre ellos: infografía, videos, textos de los autores del componentes y otros.            
+            p Usted tiene a su disposición un conjunto de recursos de aprendizaje para desarrollar conocimientos, habilidades y actitudes. Entre ellos: infografía, videos, textos de los autores de los componentes y otros.            
 
             img.img-t.img-a.mt-5(src='@/assets/ilustraciones/img2.svg', alt='')
 
@@ -53,7 +53,7 @@
 
             img.img-t.img-a.mt-5(src='@/assets/ilustraciones/img5.svg', alt='') 
 
-    p.mt-5 Ahora que se han identificado algunas rutas de aprendizaje, se invita a iniciar desde la siguiente pregunta: ¿cuál es la importancia del uso de la analítica en el contexto del marketing digital para el sistema de moda?
+    p.mt-5 Ahora que se han identificado algunas rutas de aprendizaje, se invita a iniciar desde la siguiente pregunta: ¿cuál es la importancia del uso de la analítica en el contexto del #[i marketing] digital para el sistema de moda?
 </template>
 
 <script>

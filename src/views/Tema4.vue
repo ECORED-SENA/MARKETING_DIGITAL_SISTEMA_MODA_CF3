@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span.numero 4
-      h1 Estructuración e interpretación de indicadores para la preparación de reportes
+      h1.text-in Estructuración e interpretación de indicadores para la preparación de reportes
     .row.justify-content-center.align-items-center.mt-5
       .col-12.col-md-7
         p De nada sirve medir cifras y analizar datos si no se plasman en información importante para direccionar la toma de decisiones. Con esto, se hace evidente la necesidad de usar indicadores que guíen la presentación de dicha información para ser trabajada con el equipo técnico. 
@@ -15,7 +15,7 @@
         img.img-t.img-a(src='@/assets/ilustraciones/img53.svg', alt='')       
 
     .titulo-segundo#t_4_1.mt-5
-      .h4 4.1. Características de un reporte de resultados        
+      .h4.text-in 4.1. Características de un reporte de resultados        
     .row.justify-content-center.align-items-center.mt-5
       .col-12.col-md-5
         img.img-t.img-a(src='@/assets/ilustraciones/img54_1.png', alt='')      
