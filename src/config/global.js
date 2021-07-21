@@ -225,7 +225,7 @@ export default {
         'Entender e interpretar datos del entorno digital para conocer resultados que permitan una acertada toma de decisiones.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Software',
       significado:
         'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
     },
