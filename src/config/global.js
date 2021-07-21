@@ -151,11 +151,7 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -193,8 +189,7 @@ export default {
     {
       referencia:
         'IEBS Business School. (11 de septiembre de 2018). Cómo definir e interpretar métricas y KPI en analítica web de IEBS. [Webinar]. ',
-      link:
-        'https://www.iebschool.com/programas/webinar-definir-metricas-kpis-analitica-web/',
+      link: 'https://www.youtube.com/watch?v=-_8tNwzyCi8',
     },
     {
       referencia:
@@ -267,8 +262,7 @@ export default {
       texto:
         'IEBS Business School. (11 de septiembre de 2018). Cómo definir e interpretar métricas y KPI en analítica web de IEBS. [Webinar]. ',
       tipo: 'Webinar',
-      link:
-        'https://www.iebschool.com/programas/webinar-definir-metricas-kpis-analitica-web/',
+      link: 'https://www.youtube.com/watch?v=-_8tNwzyCi8',
     },
     {
       texto:

@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Actividad didáctica: ¿Qué haría usted?
+          h2.text-in Actividad didáctica: ¿Qué haría usted?
         p.mb-4 Valorar experiencias en el contexto de las comunidades virtuales para determinar posibles soluciones 
         .tarjeta.tarjeta--azul-3.p-3
           .row.justify-content-around.align-items-center            
